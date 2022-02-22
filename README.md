@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="http://twitter.com/tomio2480">
+  <img height="20" src="https://img.shields.io/twitter/follow/tomio2480?style=social" />
+</a>
+
 <!--
 **tomio2480/tomio2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
