@@ -1,4 +1,4 @@
-### Hi there 👋
+北海道から日本各地の技術コミュニティに足を運び，技術コミュニティの自由な文化を守ります💪
 
 <a href="http://twitter.com/tomio2480">
   <img height="20" src="https://img.shields.io/twitter/follow/tomio2480?style=social" />
