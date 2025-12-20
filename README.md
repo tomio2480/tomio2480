@@ -3,7 +3,10 @@
 <a href="http://twitter.com/tomio2480">
   <img height="20" src="https://img.shields.io/twitter/follow/tomio2480?style=social" />
 </a>
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/tomio2480?style=social&logo=github)](https://github.com/sponsors/tomio2480)
+
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/tomio2480)
+
 
 <!--
 **tomio2480/tomio2480** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
