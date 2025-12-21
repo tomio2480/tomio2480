@@ -1,11 +1,7 @@
 北海道から日本各地の技術コミュニティに足を運び，技術コミュニティの自由な文化を守ります💪
 
-<a href="http://twitter.com/tomio2480">
-  <img height="20" src="https://img.shields.io/twitter/follow/tomio2480?style=social" />
-</a>
-
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/tomio2480)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tomio2480?style=social)](http://twitter.com/tomio2480)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/tomio2480?style=social&logo=github&label=Sponsor)](https://github.com/sponsors/tomio2480)
 
 
 <!--
