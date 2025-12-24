@@ -1,6 +1,6 @@
 北海道から日本各地の技術コミュニティに足を運び，技術コミュニティの自由な文化を守ります💪  
-　  
 コミュニティ活動や資料づくりの費用をご支援くださる方を募集しています🙇  
+   
  [![GitHub Sponsors](https://img.shields.io/github/sponsors/tomio2480?style=social&logo=github&label=Sponsor)](https://github.com/sponsors/tomio2480)
 
 | カテゴリ | リンク |
